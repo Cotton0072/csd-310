@@ -1,0 +1,19 @@
+{
+  "user_id": "1985",
+  "first_name": "Matt",
+  "last_name": "Trakker",
+  "birthdate": "1975-03-22",
+  "roles": [
+    {
+      "role_id": "R01",
+      "role_name": "Father"
+    }
+  ],
+  "dependents": [
+    {
+      "dependent_id": "D01",
+      "name": "Scott",
+      "relationship": "Child"
+    }
+  ]
+}
